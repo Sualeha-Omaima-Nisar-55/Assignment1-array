@@ -1,9 +1,10 @@
 # Assignment1
 import java.util.Scanner;
-class JAVA
-{
-    public static void main(String[] args)
-{
+
+class JAVA{
+
+    public static void main(String[] args){
+
         Scanner scanner = new Scanner(System.in);
         int rows = 2;
         int column = 3;
